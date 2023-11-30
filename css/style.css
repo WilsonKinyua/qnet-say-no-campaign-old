@@ -3341,7 +3341,7 @@ only screen and (min-width: 1400px) and (max-width: 1599px) {
   display: inline-block;
   font-weight: 600;
   font-size: 17px;
-  color: var(--tp-grey-2);
+  color: #000000;
   transition: 0.3s;
 }
 
@@ -5448,7 +5448,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 }
 
 .tp-feature__wraper:hover .tp-feature__text p {
-  color: var(--tp-theme-3);
+  color: #fff;
 }
 
 .tp-feature__wraper:hover .tp-feature__icon span {
