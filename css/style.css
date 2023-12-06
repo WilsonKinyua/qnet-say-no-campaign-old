@@ -4547,6 +4547,10 @@ only screen and (min-width: 768px) and (max-width: 991px),
   min-height: 88vh;
 }
 
+.tp-slider__bg-mobile {
+  display: none !important;
+}
+
 @media only screen and (min-width: 1400px) and (max-width: 1599px),
 only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-slider__bg {
@@ -4571,6 +4575,10 @@ only screen and (min-width: 1200px) and (max-width: 1399px) {
   .tp-slider__bg {
     background-position: center;
     min-height: 600px;
+    display: none !important;
+  }
+  .tp-slider__bg-mobile {
+    display: block !important;
   }
 }
 
