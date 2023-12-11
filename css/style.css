@@ -11308,11 +11308,11 @@ only screen and (min-width: 768px) and (max-width: 991px),
   transform: scale(1.1);
 }
 
-.tp-blog-2__item:hover .tp-blog-2__thumb::after {
+/* .tp-blog-2__item:hover .tp-blog-2__thumb::after {
   -webkit-transform: perspective(400px) rotateX(0deg) scaleY(1);
   -ms-transform: perspective(400px) rotateX(0deg) scaleY(1);
   transform: perspective(400px) rotateX(0deg) scaleY(1);
-}
+} */
 
 .tp-blog-2__item:hover .tp-blog-2__link {
   background-color: var(--tp-theme-2);
