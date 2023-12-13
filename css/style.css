@@ -16669,5 +16669,13 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   opacity: 1;
   transform: scaleY(1);
 }
+.w-full {
+  width: 100%;
+}
+
+.nav.nav-tabs .nav-link {
+  color: #F06D2E;
+  text-transform: uppercase;
+}
 
 /*# sourceMappingURL=style.css.map */
