@@ -4546,6 +4546,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   background-size: cover;
   min-height: 90vh;
   width: 100%;
+  background-image: url('../img/say-no-campaign-2023.svg');
 }
 
 .tp-slider__bg-mobile {
@@ -4577,7 +4578,9 @@ only screen and (min-width: 1200px) and (max-width: 1399px) {
     background-position: center;
     min-height: 600px;
     /* display: none !important; */
+    background-image: url('../img/bg-gradient.svg');
   }
+
   .tp-slider__bg-mobile {
     display: block !important;
   }
@@ -16669,6 +16672,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   opacity: 1;
   transform: scaleY(1);
 }
+
 .w-full {
   width: 100%;
 }
