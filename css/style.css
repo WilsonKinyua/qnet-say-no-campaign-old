@@ -185,6 +185,11 @@ a:hover {
   text-decoration: none;
 }
 
+.underline:hover {
+  color: inherit;
+  text-decoration: underline;
+}
+
 a,
 button {
   color: inherit;
