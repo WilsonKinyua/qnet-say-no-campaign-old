@@ -390,9 +390,9 @@ input[type=url] {
   display: inline-block;
   background-color: var(--tp-common-orange);
   color: var(--tp-common-white);
-  height: 58px;
-  line-height: 55px;
-  padding: 0 51px;
+  height: 38px;
+  line-height: 35px;
+  padding: 0 35px;
   font-size: 14px;
   font-weight: 700;
   text-align: center;
